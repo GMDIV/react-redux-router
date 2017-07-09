@@ -1,0 +1,1 @@
+A small basic project that utilizes react, react-router, and redux
